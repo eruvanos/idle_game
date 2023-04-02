@@ -19,7 +19,10 @@ Approach:
 Idle game, containing different "mini" games
 
 
+## Gallery
 
+![](docs/gather_view.png)
+![](docs/crop_view.png)
 
 
 ## possible Backlog (WIP)
